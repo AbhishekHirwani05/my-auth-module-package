@@ -1,6 +1,6 @@
 {
-  "name": "my_auth_module_package",
-  "version": "1.0.0",
+  "name": "@AbhishekHirwani05/my_auth_module_package",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
